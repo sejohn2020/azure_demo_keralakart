@@ -1,0 +1,13 @@
+{
+    "name": "keralakart-api",
+    "version": "1.0.0",
+    "description": "KeralaKart API — Azure Function App (HTTP Triggers)",
+    "scripts": {
+        "start": "func start"
+    },
+    "dependencies": {
+        "mssql": "^10.0.1",
+        "bcryptjs": "^2.4.3",
+        "jsonwebtoken": "^9.0.2"
+    }
+}
